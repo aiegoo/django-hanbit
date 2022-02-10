@@ -1,6 +1,6 @@
 boto3==1.9.243
 botocore==1.12.243
-Django==2.2.2
+Django==2.2.27
 django-classy-tags==0.9.0
 django-storages==1.7.2
 django-taggit==1.1.0
