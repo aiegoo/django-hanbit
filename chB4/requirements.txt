@@ -9,7 +9,7 @@ django-widget-tweaks==1.4.5
 docutils==0.15.2
 jmespath==0.9.4
 mysqlclient==1.4.4
-Pillow==6.0.0
+Pillow==9.0.1
 python-dateutil==2.8.0
 pytz==2019.1
 s3transfer==0.2.1
